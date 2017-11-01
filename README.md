@@ -1,2 +1,4 @@
 # advertising-prediction
-the project is predicting the sales based on tv advertising
+The project is predicting the sales based on tv advertising 
+Algorithm:Linear Regression
+Language:Python
